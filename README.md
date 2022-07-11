@@ -12,6 +12,7 @@ deliveries and security
 <img src="screenshot/inventory.png" alt="Pharmacy management system github">
 <img src="screenshot/customer.png" alt="Pharmacy management system github">
 <img src="screenshot/staffPOS.png" alt="Pharmacy management system github">
+<img src="screenshot/sampleTransac.png" alt="Pharmacy management system github">
       - for more screenshots sample visit screeshot folder of this repo
 
 ## Manager Key Features
