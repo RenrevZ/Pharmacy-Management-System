@@ -41,19 +41,21 @@
         <div class="card-header d-flex justify-content-between align-items-end">
         </div>
         <div class="card-body">
-        <table class="table table-sm table-bordered text-center" id="NewStaff">
-        <thead>
-          <tr>
-            <th scope="col">ID</th>
-            <th scope="col">Name</th>
-            <th scope="col">Username</th>
-            <th scope="col">Action</th>
-          </tr>
-        </thead>
-        <tbody>
-        <?php require_once 'staffData.php'?>
-        </tbody>
-      </table>
+        <div class="table-responsive">
+            <table class="table table-sm table-bordered text-center" id="NewStaff">
+            <thead>
+              <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Username</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+            <?php require_once 'staffData.php'?>
+            </tbody>
+          </table>
+        </div>
       </div>
 </div>
 

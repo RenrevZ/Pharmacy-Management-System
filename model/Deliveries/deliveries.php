@@ -17,21 +17,21 @@
         </div>
     </div>
     <div class="card-body">
-
-        <table class="table table-hover" id="deliveries">
-            <thead>
-                <tr> 
-                    <th scope="col">Supplier</th>
-                    <th scope="col">Ref No.</th>
-                    <th scope="col">Delivery Date</th>
-                    <th scope="col">Action</th>
-                </tr>
-            </thead>
-            <tbody>
-                <?php  require_once 'DeliveriesData.php'; ?>
-            </tbody>
-        </table>
-
+        <div class="table-responsive">
+            <table class="table table-hover" id="deliveries">
+                <thead>
+                    <tr> 
+                        <th scope="col">Supplier</th>
+                        <th scope="col">Ref No.</th>
+                        <th scope="col">Delivery Date</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php  require_once 'DeliveriesData.php'; ?>
+                </tbody>
+            </table>
+        </div>
     </div>
 
 </div>

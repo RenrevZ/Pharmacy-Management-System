@@ -26,18 +26,20 @@
     </div>
 
     <div class="card-body">
-    <table class="table table-sm table-hover  text-center" id="dailysales">
-        <thead>
-          <tr>
-            <th scope="col">Customer Name</th>
-            <th scope="col">Date Purchased</th>
-            <th scope="col">Total Purchased</th>
-          </tr>
-        </thead>
-        <tbody>
-                <?php require_once 'dspurchase.php';?>
-        </tbody>
-      </table>
+      <div class="table-responsive">
+          <table class="table table-sm table-hover  text-center" id="dailysales">
+              <thead>
+                <tr>
+                  <th scope="col">Customer Name</th>
+                  <th scope="col">Date Purchased</th>
+                  <th scope="col">Total Purchased</th>
+                </tr>
+              </thead>
+              <tbody>
+                      <?php require_once 'dspurchase.php';?>
+              </tbody>
+            </table>
+      </div>
     </div>
 
 </div>

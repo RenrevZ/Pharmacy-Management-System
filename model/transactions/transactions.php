@@ -25,19 +25,21 @@
     </div>
 
     <div class="card-body">
-        <table class="table table-sm table-bordered text-center" id="transactions">
-            <thead>
-              <tr>
-                <th scope="col">Staff name</th>
-                <th scope="col">Products Sold</th>
-                <th scope="col">Total Sold</th>
-                <th scope="col">Action</th>
-              </tr>
-            </thead>
-            <tbody>
-            <?php require_once 'transactiondata.php';?>
-            </tbody>
-          </table>
+      <div class="table-responsive">
+          <table class="table table-sm table-bordered text-center" id="transactions">
+              <thead>
+                <tr>
+                  <th scope="col">Staff name</th>
+                  <th scope="col">Products Sold</th>
+                  <th scope="col">Total Sold</th>
+                  <th scope="col">Action</th>
+                </tr>
+              </thead>
+              <tbody>
+              <?php require_once 'transactiondata.php';?>
+              </tbody>
+            </table>
+      </div>
     </div>
 
 </div>

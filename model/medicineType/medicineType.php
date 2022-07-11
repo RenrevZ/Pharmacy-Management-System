@@ -27,18 +27,20 @@
 
         </div>
         <div class="card-body">
-        <table class="table table-sm table-bordered text-center" id="medtype">
-        <thead>
-          <tr>
-            <th scope="col">ID</th>
-            <th scope="col">Medtype</th>
-            <th scope="col">Action</th>
-          </tr>
-        </thead>
-        <tbody>
-        <?php require_once 'medicineTypeData.php'?>
-        </tbody>
-      </table>
+          <div class="table-responsive">
+                <table class="table table-sm table-bordered text-center" id="medtype">
+                <thead>
+                  <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Medtype</th>
+                    <th scope="col">Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                <?php require_once 'medicineTypeData.php'?>
+                </tbody>
+              </table>
+          </div>
       </div>
 </div>
 

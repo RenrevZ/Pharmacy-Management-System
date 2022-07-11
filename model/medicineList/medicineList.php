@@ -18,25 +18,27 @@
 
 </div>
   <div class="card-body">
-  <table class="table  table-sm table-bordered text-center" id="Medicinelist">
-  <thead>
-    <tr> 
-       <th scope="col">Product ID</th>
-         <th scope="col">Brand</th>
-        <th scope="col">Type</th>
-        <th scope="col">Categories</th>
-        <th scope="col">Price</th>
-        <th scope="col">Quantity</th>
-        <th scope="col">Expired Date</th>
-        <th scope="col">Action</th>
-    </tr>
-  </thead>
-  <tbody>
+  <div class="table-responsive">
+      <table class="table  table-sm table-bordered text-center" id="Medicinelist">
+      <thead>
+        <tr> 
+          <th scope="col">Product ID</th>
+            <th scope="col">Brand</th>
+            <th scope="col">Type</th>
+            <th scope="col">Categories</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Expired Date</th>
+            <th scope="col">Action</th>
+        </tr>
+      </thead>
+      <tbody>
 
-    <?php require_once 'Ml_data.php'?>
+        <?php require_once 'Ml_data.php'?>
 
-  </tbody>
-</table>
+      </tbody>
+    </table>
+  </div>
   </div>
 </div>
 
