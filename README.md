@@ -28,13 +28,13 @@ deliveries and security
    - Least Buy Product
  - Daily Transactions / Transaction Data
  - Deliveries / Product Delivered
- -Setting (System Privacy Added a superuser Authentication)
+ -Setting (System Privacy, Added a superuser Authentication)
 
 ## Staff login Key Features
 - Purchase
     - Simple Point of Sales System
 - Deliveries
-    - POS system ref. no and XP date included
+    - POS system ref. no and expiration date included
 
 ### Plugins and API's
  - sweet Alert 2
