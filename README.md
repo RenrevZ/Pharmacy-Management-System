@@ -6,6 +6,13 @@ deliveries and security
 <kbd> <img  src='https://img.shields.io/badge/Upcoming%20Release-v.2.2.0-brightgreen'/></kbd>
 * adding responsiveness
 * receipt printing
+## Sample Screenshot
+<img src="screenshot/login.png" alt="Pharmacy management system github">
+<img src="screenshot/dashboard.png" alt="Pharmacy management system github">
+<img src="screenshot/inventory.png" alt="Pharmacy management system github">
+<img src="screenshot/customer.png" alt="Pharmacy management system github">
+<img src="screenshot/staffPOS.png" alt="Pharmacy management system github">
+      - for more screenshots sample visit screeshot folder of this repo
 
 ## Manager Key Features
 * Inventory Summary
