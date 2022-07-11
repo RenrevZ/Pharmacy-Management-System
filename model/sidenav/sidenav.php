@@ -34,7 +34,7 @@
              <li><a href=".././settings/settings.php"  class="button"><i class="bi bi-gear-fill"></i></i> Settings</a></li>
          </ul>
 </div>
-<div class="col-10 main-column h-100">
+<div class="col-10 main-column h-100" id="nav">
         <div class="navBar bg-white d-flex justify-content-between p-2 align-items-center">
         <div class="left text-secondary d-flex">
         <div class="hamburger me-3" id="hamburger">

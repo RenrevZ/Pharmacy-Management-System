@@ -9,7 +9,7 @@
 <div class="wrapp wrapp-dashboard ps-3 mt-3 d-flex flex-wrap justify-content-evenly h-100">
 
 <!-- === first items ====== -->
-<div class="card   h-25 card-dashboard5 me-2 text-white">
+<div class="card  h-25 card-dashboard5 me-2 text-white">
   <div class="card-body d-flex justify-content-between">
     <div>
             <h5 class="card-title">Total Sales today</h5>
