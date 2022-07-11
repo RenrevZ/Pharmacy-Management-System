@@ -19,8 +19,8 @@ deliveries and security
 * Monthly Sales Chart
 * Inventory Summary Chart
 * Daily Sales Report
-*Sales Summary Report (based on inputted Data)
-*Customer Information
+* Sales Summary Report (based on inputted Data)
+* Customer Information
    - Regular Customer
    - Regular Customer Location
    - Most Buy Product
