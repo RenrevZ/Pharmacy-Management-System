@@ -30,7 +30,7 @@ deliveries and security
  - Deliveries / Product Delivered
  -Setting (System Privacy Added a superuser Authentication)
 
-### Staff login Key Features
+## Staff login Key Features
 - Purchase
     - Simple Point of Sales System
 - Deliveries
