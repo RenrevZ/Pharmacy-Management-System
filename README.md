@@ -1,7 +1,7 @@
 <kbd> <img  src='https://img.shields.io/badge/Current%20Release%20Version-v2.0.0-brightgreen'/></kbd>
 # Pharmacy Management System
 - A complete Pharmacy management system that handles inventory,sales,customer information,
-deliveries and security
+deliveries and Data security
 
 <kbd> <img  src='https://img.shields.io/badge/Upcoming%20Release-v.2.2.0-brightgreen'/></kbd>
 * adding responsiveness
