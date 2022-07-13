@@ -28,7 +28,7 @@ deliveries and Data security
    - Least Buy Product
  - Daily Transactions / Transaction Data
  - Deliveries / Product Delivered
- -Setting (System Privacy, Added a superuser Authentication)
+ - Setting (System Privacy, Added a superuser Authentication)
 
 ## Staff login Key Features
 - Purchase
